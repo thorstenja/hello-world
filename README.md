@@ -1,2 +1,3 @@
 # hello-world
-testproject
+
+Lets make a small project and figure out how this works.
