@@ -6,4 +6,4 @@ Syntax highlighted code block
 
 Some regular text to see what it looks like
 
-Edit according to issue #2
+Edit according to issue #2 exactly
