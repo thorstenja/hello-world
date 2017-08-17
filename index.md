@@ -5,3 +5,5 @@ Syntax highlighted code block
 ### Header 3
 
 Some regular text to see what it looks like
+
+Edit according to issue #2
