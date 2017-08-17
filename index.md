@@ -1,5 +1,5 @@
 Syntax highlighted code block
 
-# Header 1
-## Header 2
+# Large header text
+## Smaller text
 ### Header 3
